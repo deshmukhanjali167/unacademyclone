@@ -1,0 +1,37 @@
+.un_hover:hover {
+   background-color: aliceblue !important
+}
+.cracks{
+   font-weight: 790;
+   line-height: 56px;
+    letter-spacing: -0.01em;
+}
+
+.firstlist {
+   list-style-image: url(../index.html/image/checked.svg);
+   ;
+}
+
+li {
+   padding-top: 10px;
+   font-size: 14px;
+}
+
+.f_small {
+   font-size: 14px !important;
+}
+
+.img_login {
+   background-color: #d9e8fd;
+}
+
+.log_size {
+   font-size: 16px;
+}
+
+.log-lab {
+   font-size: 13px;
+}
+.backcol {
+   background-color: #d9e8fd;
+}
